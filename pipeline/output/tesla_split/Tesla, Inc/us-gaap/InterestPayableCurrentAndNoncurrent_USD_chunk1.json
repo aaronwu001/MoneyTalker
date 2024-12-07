@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "InterestPayableCurrentAndNoncurrent",
+    "unit": "USD",
+    "label": "Interest Payable",
+    "description": "Amount of interest payable on debt, including, but not limited to, trade payables.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 741000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 7222000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "GuaranteeObligationsMaximumExposure",
+    "unit": "USD",
+    "label": "Guarantor Obligations, Maximum Exposure, Undiscounted",
+    "description": "Maximum potential amount of future payments (undiscounted) the guarantor could be required to make under the guarantee or each group of similar guarantees before reduction for potential recoveries under recourse or collateralization provisions.",
+    "data": [
+        {
+            "end": "2023-12-31",
+            "val": 166000000,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 166000000,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2023Q4I"
+        },
+        {
+            "end": "2024-06-30",
+            "val": 807000000,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24",
+            "frame": "CY2024Q2I"
+        },
+        {
+            "end": "2024-09-30",
+            "val": 1040000000,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2024Q3I"
+        }
+    ]
+}

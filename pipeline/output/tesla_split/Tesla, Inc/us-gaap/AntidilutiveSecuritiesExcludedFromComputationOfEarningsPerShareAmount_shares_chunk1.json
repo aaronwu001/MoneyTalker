@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AntidilutiveSecuritiesExcludedFromComputationOfEarningsPerShareAmount",
+    "unit": "shares",
+    "label": "Antidilutive Securities Excluded from Computation of Earnings Per Share, Amount",
+    "description": "Securities (including those issuable pursuant to contingent stock agreements) that could potentially dilute basic earnings per share (EPS) or earnings per unit (EPU) in the future that were not included in the computation of diluted EPS or EPU because to do so would increase EPS or EPU amounts or decrease loss per share or unit amounts for the period presented.",
+    "data": [
+        {
+            "start": "2022-01-01",
+            "end": "2022-06-30",
+            "val": 1000000,
+            "accn": "0000950170-22-012936",
+            "fy": 2022,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2022-07-25"
+        }
+    ]
+}

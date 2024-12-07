@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ReclassificationsOfTemporaryToPermanentEquity",
+    "unit": "USD",
+    "label": "Reclassifications of Temporary to Permanent Equity",
+    "description": "The difference between the carrying amount of a financial instrument subject to a registration payment arrangement recorded as temporary equity prior to adoption of FSP EITF 00-19-2 and the carrying amount reclassified to permanent equity upon the adoption of FSP EITF 00-19-2. Recorded as a cumulative effect adjustment to the beginning balance of retained earnings. Does not apply to registration payment arrangements that are no longer outstanding upon adoption of FSP EITF 00-19-2.",
+    "data": [
+        {
+            "start": "2020-04-01",
+            "end": "2020-06-30",
+            "val": 16000000,
+            "accn": "0001564590-20-033670",
+            "fy": 2020,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2020-07-28",
+            "frame": "CY2020Q2"
+        }
+    ]
+}

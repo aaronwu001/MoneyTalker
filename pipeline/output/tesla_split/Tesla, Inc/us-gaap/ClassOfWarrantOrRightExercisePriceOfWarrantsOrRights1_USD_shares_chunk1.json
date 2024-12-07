@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ClassOfWarrantOrRightExercisePriceOfWarrantsOrRights1",
+    "unit": "USD/shares",
+    "label": "Class of Warrant or Right, Exercise Price of Warrants or Rights",
+    "description": "Exercise price per share or per unit of warrants or rights outstanding.",
+    "data": [
+        {
+            "end": "2014-09-30",
+            "val": 7.54,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 7.54,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

@@ -1,0 +1,48 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxAssetsInvestments",
+    "unit": "USD",
+    "label": "Deferred Tax Assets, Investments",
+    "description": "Amount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from investments (excludes investments in subsidiaries and equity method investments).",
+    "data": [
+        {
+            "end": "2016-12-31",
+            "val": 237759000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2016Q4I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 237759000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 24471000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 24471000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ConversionOfStockAmountConverted1",
+    "unit": "USD",
+    "label": "Conversion of Stock, Amount Converted",
+    "description": "\"The value of the stock converted in a noncash (or part noncash) transaction. Noncash is defined as transactions during a period that do not result in cash receipts or cash payments in the period. \"\"Part noncash\"\" refers to that portion of the transaction not resulting in cash receipts or cash payments in the period.\"",
+    "data": [
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 319225000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 319225000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 319225000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PaymentsToAcquireLandHeldForUse",
+    "unit": "USD",
+    "label": "Payments to Acquire Land Held-for-use",
+    "description": "The cash outflow for acquisition of land for use; excludes purchases of land held as inventory or as investments.",
+    "data": [
+        {
+            "start": "2013-07-01",
+            "end": "2013-07-31",
+            "val": 18500000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08"
+        }
+    ]
+}

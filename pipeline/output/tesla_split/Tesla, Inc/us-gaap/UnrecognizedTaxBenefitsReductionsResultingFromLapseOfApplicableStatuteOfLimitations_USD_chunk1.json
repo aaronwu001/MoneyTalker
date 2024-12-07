@@ -1,0 +1,42 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "UnrecognizedTaxBenefitsReductionsResultingFromLapseOfApplicableStatuteOfLimitations",
+    "unit": "USD",
+    "label": "Unrecognized Tax Benefits, Reduction Resulting from Lapse of Applicable Statute of Limitations",
+    "description": "Amount of decrease in unrecognized tax benefits resulting from lapses of applicable statutes of limitations.",
+    "data": [
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 7000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 7000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 4000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

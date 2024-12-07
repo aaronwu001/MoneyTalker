@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "FairValueConcentrationOfRiskForeignCurrencyContracts",
+    "unit": "USD",
+    "label": "Fair Value, Concentration of Risk, Foreign Currency Contracts",
+    "description": "This item represents disclosure of all significant concentrations of credit risk or market risk arising from the subject financial instrument (as defined), whether from an individual counterparty or groups of counterparties.",
+    "data": [
+        {
+            "end": "2011-12-31",
+            "val": 0,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        }
+    ]
+}

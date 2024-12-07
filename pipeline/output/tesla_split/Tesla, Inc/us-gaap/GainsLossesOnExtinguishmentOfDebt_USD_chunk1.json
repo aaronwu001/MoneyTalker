@@ -1,0 +1,31 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "GainsLossesOnExtinguishmentOfDebt",
+    "unit": "USD",
+    "label": "Gain (Loss) on Extinguishment of Debt",
+    "description": "Difference between the fair value of payments made and the carrying amount of debt which is extinguished prior to maturity.",
+    "data": [
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": -105000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 105000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2020"
+        }
+    ]
+}

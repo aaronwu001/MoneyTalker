@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxAssetsDerivativeInstruments",
+    "unit": "USD",
+    "label": "Deferred Tax Assets, Derivative Instruments",
+    "description": "Amount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from derivative instruments.",
+    "data": [
+        {
+            "end": "2015-12-31",
+            "val": 35073000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 3080000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017Q4I"
+        }
+    ]
+}

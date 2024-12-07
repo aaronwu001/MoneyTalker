@@ -1,0 +1,68 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AssetRetirementObligationsNoncurrent",
+    "unit": "USD",
+    "label": "Asset Retirement Obligations, Noncurrent",
+    "description": "Noncurrent portion of the carrying amount of a liability for an asset retirement obligation. An asset retirement obligation is a legal obligation associated with the disposal or retirement of a tangible long-lived asset that results from the acquisition, construction or development, or the normal operations of a long-lived asset, except for certain obligations of lessees.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 2115000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2115000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2115000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 2710000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 3436000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 5461000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        }
+    ]
+}

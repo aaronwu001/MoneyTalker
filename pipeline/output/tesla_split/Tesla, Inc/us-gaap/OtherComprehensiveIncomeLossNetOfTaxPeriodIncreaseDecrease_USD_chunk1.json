@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeLossNetOfTaxPeriodIncreaseDecrease",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Net of Tax (Deprecated 2012-01-31)",
+    "description": "This element represents Other Comprehensive Income or Loss, Net of Tax, for the period. Includes deferred gains or losses on qualifying hedges, unrealized holding gains or losses on available-for-sale securities, minimum pension liability, and cumulative translation adjustment. While for technical reasons this element has no balance attribute, the default assumption is a credit balance consistent with its label.",
+    "data": [
+        {
+            "start": "2012-01-01",
+            "end": "2012-03-31",
+            "val": 6000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1"
+        }
+    ]
+}

@@ -1,0 +1,72 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DecreaseInRestrictedCash",
+    "unit": "USD",
+    "label": "Decrease in Restricted Cash",
+    "description": "Amount of cash inflow associated with funds that are not available for withdrawal or use (such as funds held in escrow) and are associated with underlying transactions that are classified as investing activities.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-03-31",
+            "val": 2560000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2013Q1"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-06-30",
+            "val": 1080000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-09-30",
+            "val": 126000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 1295000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-06-30",
+            "val": 1616000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-09-30",
+            "val": -289000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        }
+    ]
+}

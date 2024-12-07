@@ -1,0 +1,78 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "LineOfCreditFacilityRemainingBorrowingCapacity",
+    "unit": "USD",
+    "label": "Line of Credit Facility, Remaining Borrowing Capacity",
+    "description": "Amount of borrowing capacity currently available under the credit facility (current borrowing capacity less the amount of borrowings outstanding).",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 393220000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2010-12-31",
+            "val": 393220000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 188797000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 188797000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "end": "2012-03-31",
+            "val": 104530000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1I"
+        },
+        {
+            "end": "2012-06-30",
+            "val": 33256000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02",
+            "frame": "CY2012Q2I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 17900000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04",
+            "frame": "CY2016Q4I"
+        }
+    ]
+}

@@ -1,0 +1,73 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsForfeitedInPeriod",
+    "unit": "shares",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Forfeited in Period",
+    "description": "The number of equity-based payment instruments, excluding stock (or unit) options, that were forfeited during the reporting period.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 12463,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 12463,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 12463,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 123309,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 123309,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 261473,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        }
+    ]
+}

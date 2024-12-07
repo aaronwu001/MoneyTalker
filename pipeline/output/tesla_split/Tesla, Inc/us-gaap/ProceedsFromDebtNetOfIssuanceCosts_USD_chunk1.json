@@ -1,0 +1,41 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ProceedsFromDebtNetOfIssuanceCosts",
+    "unit": "USD",
+    "label": "Proceeds from Debt, Net of Issuance Costs",
+    "description": "The cash inflow from additional borrowings, net of cash paid to third parties in connection with debt origination.",
+    "data": [
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 1780000000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1"
+        },
+        {
+            "start": "2014-04-01",
+            "end": "2014-04-30",
+            "val": 267600000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        },
+        {
+            "start": "2014-04-01",
+            "end": "2014-04-30",
+            "val": 267600000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        }
+    ]
+}

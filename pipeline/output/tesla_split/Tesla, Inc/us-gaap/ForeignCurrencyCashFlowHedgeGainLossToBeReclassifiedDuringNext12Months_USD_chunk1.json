@@ -1,0 +1,60 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ForeignCurrencyCashFlowHedgeGainLossToBeReclassifiedDuringNext12Months",
+    "unit": "USD",
+    "label": "Foreign Currency Cash Flow Hedge Gain (Loss) to be Reclassified During Next 12 Months",
+    "description": "The estimated net amount of unrealized gains or losses on foreign currency cash flow hedges at the reporting date expected to be reclassified to earnings within the next 12 months.",
+    "data": [
+        {
+            "end": "2015-12-31",
+            "val": 7300000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2016-03-31",
+            "val": 28100000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 51000000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2016-09-30",
+            "val": 40300000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 5600000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016Q4I"
+        }
+    ]
+}

@@ -1,0 +1,40 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "LineOfCredit",
+    "unit": "USD",
+    "label": "Long-term Line of Credit",
+    "description": "The carrying value as of the balance sheet date of the current and noncurrent portions of long-term obligations drawn from a line of credit, which is a bank's commitment to make loans up to a specific amount. Examples of items that might be included in the application of this element may consist of letters of credit, standby letters of credit, and revolving credit arrangements, under which borrowings can be made up to a maximum amount as of any point in time conditional on satisfaction of specified terms before, as of and after the date of drawdowns on the line. Includes short-term obligations that would normally be classified as current liabilities but for which (a) postbalance sheet date issuance of a long term obligation to refinance the short term obligation on a long term basis, or (b) the enterprise has entered into a financing agreement that clearly permits the enterprise to refinance the short-term obligation on a long term basis and the following conditions are met (1) the agreement does not expire within 1 year and is not cancelable by the lender except for violation of an objectively determinable provision, (2) no violation exists at the BS date, and (3) the lender has entered into the financing agreement is expected to be financially capable of honoring the agreement.",
+    "data": [
+        {
+            "end": "2016-03-31",
+            "val": 565000000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 678000000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2016-09-30",
+            "val": 200000000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3I"
+        }
+    ]
+}

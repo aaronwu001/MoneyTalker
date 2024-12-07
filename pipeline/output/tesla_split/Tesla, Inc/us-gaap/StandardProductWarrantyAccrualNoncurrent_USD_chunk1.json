@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "StandardProductWarrantyAccrualNoncurrent",
+    "unit": "USD",
+    "label": "Standard Product Warranty Accrual, Noncurrent",
+    "description": "Amount as of the balance sheet date of the aggregate standard product warranty liability that is expected to be paid after one year or beyond the normal operating cycle, if longer. Does not include the balance for the extended product warranty liability.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 33300000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 96700000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

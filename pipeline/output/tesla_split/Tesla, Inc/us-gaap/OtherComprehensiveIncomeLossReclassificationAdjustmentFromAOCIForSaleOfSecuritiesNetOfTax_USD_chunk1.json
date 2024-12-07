@@ -1,0 +1,94 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIForSaleOfSecuritiesNetOfTax",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI for Sale of Securities, Net of Tax",
+    "description": "Amount after tax of reclassification adjustment from accumulated other comprehensive income for unrealized gain (loss) realized upon the sale of available-for-sale securities.",
+    "data": [
+        {
+            "start": "2012-01-01",
+            "end": "2012-06-30",
+            "val": 6000,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09"
+        },
+        {
+            "start": "2012-04-01",
+            "end": "2012-06-30",
+            "val": 6000,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09",
+            "frame": "CY2012Q2"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-09-30",
+            "val": 6000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": -3000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2012"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": -3000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 0,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-09-30",
+            "val": 15523000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02"
+        },
+        {
+            "start": "2016-07-01",
+            "end": "2016-09-30",
+            "val": 14246000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3"
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "InventoryAdjustments",
+    "unit": "USD",
+    "label": "Inventory Adjustments",
+    "description": "Amount of inventory reserves for last-in first-out (LIFO) and other inventory valuation methods.",
+    "data": [
+        {
+            "end": "2014-12-31",
+            "val": 15600000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 44900000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2016-03-31",
+            "val": 12700000,
+            "accn": "0001564590-17-009968",
+            "fy": 2017,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2017-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 52800000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016Q4I"
+        },
+        {
+            "end": "2017-03-31",
+            "val": 21000000,
+            "accn": "0001564590-17-009968",
+            "fy": 2017,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2017-05-10",
+            "frame": "CY2017Q1I"
+        }
+    ]
+}

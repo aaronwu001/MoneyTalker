@@ -1,0 +1,94 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "EffectiveIncomeTaxRateReconciliationAtFederalStatutoryIncomeTaxRate",
+    "unit": "pure",
+    "label": "Effective Income Tax Rate Reconciliation, at Federal Statutory Income Tax Rate, Percent",
+    "description": "Percentage of domestic federal statutory tax rate applicable to pretax income (loss).",
+    "data": [
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 0.35,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 0.35,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 0.35,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 0.35,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-03-31",
+            "val": 0.21,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2018Q1"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 0.21,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 0.21,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 0.21,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2019"
+        }
+    ]
+}

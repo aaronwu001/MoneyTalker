@@ -1,0 +1,106 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeNumberOfExercisableOptions",
+    "unit": "shares",
+    "label": "Share-based Payment Arrangement, Option, Exercise Price Range, Shares Exercisable",
+    "description": "The number of shares reserved for issuance pertaining to the outstanding exercisable stock options as of the balance sheet date in the customized range of exercise prices for which the market and performance vesting condition has been satisfied.",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 3506279,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 7053354,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 7053354,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 10231893,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 10231893,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 10714106,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 10714106,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 11957510,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 11957510,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 13825631,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        }
+    ]
+}

@@ -1,0 +1,94 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "StockholdersEquityOther",
+    "unit": "USD",
+    "label": "Stockholders' Equity, Other",
+    "description": "This element represents movements included in the statement of changes in stockholders' equity which are not separately disclosed or provided for elsewhere in the taxonomy.",
+    "data": [
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 10000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-03-31",
+            "val": 8000000,
+            "accn": "0001564590-20-019931",
+            "fy": 2020,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2020-04-30",
+            "frame": "CY2019Q1"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-06-30",
+            "val": -3000000,
+            "accn": "0001564590-20-033670",
+            "fy": 2020,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2020-07-28"
+        },
+        {
+            "start": "2019-04-01",
+            "end": "2019-06-30",
+            "val": -3000000,
+            "accn": "0001564590-20-033670",
+            "fy": 2020,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2020-07-28",
+            "frame": "CY2019Q2"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-09-30",
+            "val": -6000000,
+            "accn": "0001564590-20-047486",
+            "fy": 2020,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2020-10-26"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": -4000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 4000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 4000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2019"
+        }
+    ]
+}

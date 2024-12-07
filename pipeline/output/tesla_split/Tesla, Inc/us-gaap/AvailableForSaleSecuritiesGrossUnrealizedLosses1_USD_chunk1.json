@@ -1,0 +1,67 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleSecuritiesGrossUnrealizedLosses1",
+    "unit": "USD",
+    "label": "Available-for-sale Securities, Gross Unrealized Losses (Deprecated 2013-01-31)",
+    "description": "This item represents the gross unrealized losses for securities, at a point in time, which are categorized neither as held-to-maturity nor trading securities.",
+    "data": [
+        {
+            "end": "2011-12-31",
+            "val": 3000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 3000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 3000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 3000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-03-31",
+            "val": 6000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 3000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q4I"
+        }
+    ]
+}

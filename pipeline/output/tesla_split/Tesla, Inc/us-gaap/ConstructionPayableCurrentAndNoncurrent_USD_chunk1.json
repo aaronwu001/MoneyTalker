@@ -1,0 +1,39 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ConstructionPayableCurrentAndNoncurrent",
+    "unit": "USD",
+    "label": "Construction Payable",
+    "description": "Carrying value as of the balance sheet date of obligations incurred and payable for the acquisition of merchandise, materials, supplies and services pertaining to construction projects such as a housing development or factory expansion not classified as trade payables.",
+    "data": [
+        {
+            "end": "2014-03-31",
+            "val": 19200000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 19200000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 19200000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsNonvestedNumber",
+    "unit": "shares",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Nonvested, Number",
+    "description": "The number of non-vested equity-based payment instruments, excluding stock (or unit) options, that validly exist and are outstanding as of the balance sheet date.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 677584,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 677584,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 677584,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 1480110,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 1480110,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 2439674,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        }
+    ]
+}

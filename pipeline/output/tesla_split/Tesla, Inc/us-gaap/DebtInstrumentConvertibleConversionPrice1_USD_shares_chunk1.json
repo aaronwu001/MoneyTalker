@@ -1,0 +1,50 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DebtInstrumentConvertibleConversionPrice1",
+    "unit": "USD/shares",
+    "label": "Debt Instrument, Convertible, Conversion Price",
+    "description": "The price per share of the conversion feature embedded in the debt instrument.",
+    "data": [
+        {
+            "end": "2013-06-30",
+            "val": 124.52,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09",
+            "frame": "CY2013Q2I"
+        },
+        {
+            "end": "2013-09-30",
+            "val": 124.52,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08",
+            "frame": "CY2013Q3I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 124.52,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 124.52,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        }
+    ]
+}

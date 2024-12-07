@@ -1,0 +1,53 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "InvestmentTaxCredit",
+    "unit": "USD",
+    "label": "Investment Tax Credit",
+    "description": "The amount deducted from an entities' taxes, reflecting a percentage of an amount invested in certain assets spread over the useful life of those assets; includes deferred investment tax credits.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 45000000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 163000000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 163000000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 195000000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2018"
+        }
+    ]
+}

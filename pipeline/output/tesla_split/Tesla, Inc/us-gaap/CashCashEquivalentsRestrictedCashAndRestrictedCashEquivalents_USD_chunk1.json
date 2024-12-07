@@ -1,0 +1,126 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "CashCashEquivalentsRestrictedCashAndRestrictedCashEquivalents",
+    "unit": "USD",
+    "label": "Cash, Cash Equivalents, Restricted Cash and Restricted Cash Equivalents",
+    "description": "Amount of cash and cash equivalents, and cash and cash equivalents restricted to withdrawal or usage. Excludes amount for disposal group and discontinued operations. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.",
+    "data": [
+        {
+            "end": "2016-12-31",
+            "val": 3766900000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02",
+            "frame": "CY2016Q4I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 3766900000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 3766900000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07"
+        },
+        {
+            "end": "2017-03-31",
+            "val": 4425762000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2017Q1I"
+        },
+        {
+            "end": "2017-06-30",
+            "val": 3512738000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06",
+            "frame": "CY2017Q2I"
+        },
+        {
+            "end": "2017-09-30",
+            "val": 4076755000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02",
+            "frame": "CY2017Q3I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 3964959000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02",
+            "frame": "CY2017Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 3964959000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 3964959000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07"
+        },
+        {
+            "end": "2018-03-31",
+            "val": 3219708000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2018Q1I"
+        },
+        {
+            "end": "2018-06-30",
+            "val": 2783238000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06",
+            "frame": "CY2018Q2I"
+        },
+        {
+            "end": "2018-09-30",
+            "val": 3522966000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02",
+            "frame": "CY2018Q3I"
+        }
+    ]
+}

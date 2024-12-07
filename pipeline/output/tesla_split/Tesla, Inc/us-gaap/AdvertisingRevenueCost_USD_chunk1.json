@@ -1,0 +1,74 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AdvertisingRevenueCost",
+    "unit": "USD",
+    "label": "Advertising Revenue Cost (Deprecated 2018-01-31)",
+    "description": "Costs incurred and are directly related to generating advertising revenues.",
+    "data": [
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 48900000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 58300000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 58300000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 48000000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 48000000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 66500000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017"
+        }
+    ]
+}

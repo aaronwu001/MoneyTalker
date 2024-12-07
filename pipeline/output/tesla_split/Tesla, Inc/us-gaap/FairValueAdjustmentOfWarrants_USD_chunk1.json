@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "FairValueAdjustmentOfWarrants",
+    "unit": "USD",
+    "label": "Fair Value Adjustment of Warrants",
+    "description": "Amount of expense (income) related to adjustment to fair value of warrant liability.",
+    "data": [
+        {
+            "start": "2017-04-01",
+            "end": "2017-06-30",
+            "val": 8900000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04",
+            "frame": "CY2017Q2"
+        }
+    ]
+}

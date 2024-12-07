@@ -1,0 +1,69 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "FinancingReceivableRecordedInvestmentNonaccrualStatus",
+    "unit": "USD",
+    "label": "Financing Receivable, Nonaccrual",
+    "description": "Amount of financing receivable on nonaccrual status.",
+    "data": [
+        {
+            "end": "2020-03-31",
+            "val": 0,
+            "accn": "0001564590-20-019931",
+            "fy": 2020,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2020-04-30",
+            "frame": "CY2020Q1I"
+        },
+        {
+            "end": "2020-06-30",
+            "val": 0,
+            "accn": "0001564590-20-033670",
+            "fy": 2020,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2020-07-28",
+            "frame": "CY2020Q2I"
+        },
+        {
+            "end": "2020-09-30",
+            "val": 0,
+            "accn": "0001564590-20-047486",
+            "fy": 2020,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2020-10-26",
+            "frame": "CY2020Q3I"
+        },
+        {
+            "end": "2020-12-31",
+            "val": 0,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "end": "2020-12-31",
+            "val": 0,
+            "accn": "0000950170-21-000046",
+            "fy": 2021,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2021-04-28",
+            "frame": "CY2020Q4I"
+        },
+        {
+            "end": "2021-03-31",
+            "val": 0,
+            "accn": "0000950170-21-000046",
+            "fy": 2021,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2021-04-28",
+            "frame": "CY2021Q1I"
+        }
+    ]
+}

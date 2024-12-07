@@ -1,0 +1,41 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "NoncontrollingInterestIncreaseFromBusinessCombination",
+    "unit": "USD",
+    "label": "Noncontrolling Interest, Increase from Business Combination",
+    "description": "Amount of increase in noncontrolling interest from a business combination.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 100531000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 100531000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 201527000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        }
+    ]
+}

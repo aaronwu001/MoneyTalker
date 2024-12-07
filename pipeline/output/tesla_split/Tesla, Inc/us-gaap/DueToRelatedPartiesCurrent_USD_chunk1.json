@@ -1,0 +1,48 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DueToRelatedPartiesCurrent",
+    "unit": "USD",
+    "label": "Due to Related Parties, Current",
+    "description": "Carrying amount as of the balance sheet date of obligations due all related parties. For classified balance sheets, represents the current portion of such liabilities (due within one year or within the normal operating cycle if longer).",
+    "data": [
+        {
+            "end": "2017-12-31",
+            "val": 100000000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 100000000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 100000000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06"
+        },
+        {
+            "end": "2018-06-30",
+            "val": 82500000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06",
+            "frame": "CY2018Q2I"
+        }
+    ]
+}

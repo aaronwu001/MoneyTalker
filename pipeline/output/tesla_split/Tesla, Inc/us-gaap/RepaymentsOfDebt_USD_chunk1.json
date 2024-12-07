@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "RepaymentsOfDebt",
+    "unit": "USD",
+    "label": "Repayments of Debt",
+    "description": "The cash outflow during the period from the repayment of aggregate short-term and long-term debt. Excludes payment of capital lease obligations.",
+    "data": [
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 14167000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 3364000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 1351000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

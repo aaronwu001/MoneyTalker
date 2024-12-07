@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "UnrecognizedTaxBenefitsIncomeTaxPenaltiesAndInterestExpense",
+    "unit": "USD",
+    "label": "Unrecognized Tax Benefits, Income Tax Penalties and Interest Expense",
+    "description": "Amount of expense for interest on an underpayment of income taxes and penalties related to a tax position claimed or expected to be claimed in the tax return.",
+    "data": [
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 4000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 27000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 17000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

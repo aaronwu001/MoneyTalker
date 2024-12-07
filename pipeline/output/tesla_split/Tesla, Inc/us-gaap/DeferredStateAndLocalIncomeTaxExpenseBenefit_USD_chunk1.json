@@ -1,0 +1,105 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredStateAndLocalIncomeTaxExpenseBenefit",
+    "unit": "USD",
+    "label": "Deferred State and Local Income Tax Expense (Benefit)",
+    "description": "Amount of deferred state and local tax expense (benefit) pertaining to income (loss) from continuing operations.",
+    "data": [
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 0,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2019"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 0,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 0,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2020"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 0,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 0,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 0,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 1000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 1000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": -653000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

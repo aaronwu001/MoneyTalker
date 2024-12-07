@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredOfferingCosts",
+    "unit": "USD",
+    "label": "Deferred Offering Costs",
+    "description": "Specific incremental costs directly attributable to a proposed or actual offering of securities which are deferred at the end of the reporting period.",
+    "data": [
+        {
+            "end": "2012-09-30",
+            "val": 500000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07",
+            "frame": "CY2012Q3I"
+        }
+    ]
+}

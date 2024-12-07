@@ -1,0 +1,87 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ConvertibleDebtCurrent",
+    "unit": "USD",
+    "label": "Convertible Debt, Current",
+    "description": "The portion of the carrying value of long-term convertible debt as of the balance sheet date that is scheduled to be repaid within one year or in the normal operating cycle if longer. Convertible debt is a financial instrument which can be exchanged for a specified amount of another security, typically the entity's common stock, at the option of the issuer or the holder.",
+    "data": [
+        {
+            "end": "2013-09-30",
+            "val": 582502000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08",
+            "frame": "CY2013Q3I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 182000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 182000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 182000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 182000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 589875000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 593712000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 597626000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        }
+    ]
+}

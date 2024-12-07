@@ -1,0 +1,180 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "NetIncomeLossIncludingPortionAttributableToNonredeemableNoncontrollingInterest",
+    "unit": "USD",
+    "label": "Net Income (Loss), Including Portion Attributable to Nonredeemable Noncontrolling Interest",
+    "description": "Amount after income tax of income (loss) including the portion attributable to nonredeemable noncontrolling interest. Excludes the portion attributable to redeemable noncontrolling interest recognized as temporary equity.",
+    "data": [
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": -888663000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -730283000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -730283000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -2182476000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -2182476000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-03-31",
+            "val": -757461000,
+            "accn": "0001564590-19-013462",
+            "fy": 2019,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2019-04-29",
+            "frame": "CY2018Q1"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-06-30",
+            "val": -1519065000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29"
+        },
+        {
+            "start": "2018-04-01",
+            "end": "2018-06-30",
+            "val": -761604000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29",
+            "frame": "CY2018Q2"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-09-30",
+            "val": -1222000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29"
+        },
+        {
+            "start": "2018-07-01",
+            "end": "2018-09-30",
+            "val": 297000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29",
+            "frame": "CY2018Q3"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": -1001361000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-03-31",
+            "val": -662342000,
+            "accn": "0001564590-19-013462",
+            "fy": 2019,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2019-04-29",
+            "frame": "CY2019Q1"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-06-30",
+            "val": -1077702000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29"
+        },
+        {
+            "start": "2019-04-01",
+            "end": "2019-06-30",
+            "val": -415360000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29",
+            "frame": "CY2019Q2"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-09-30",
+            "val": -947000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29"
+        },
+        {
+            "start": "2019-07-01",
+            "end": "2019-09-30",
+            "val": 131000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29",
+            "frame": "CY2019Q3"
+        }
+    ]
+}

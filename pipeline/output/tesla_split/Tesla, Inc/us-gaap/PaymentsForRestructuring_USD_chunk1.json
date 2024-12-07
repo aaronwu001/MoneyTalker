@@ -1,0 +1,52 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PaymentsForRestructuring",
+    "unit": "USD",
+    "label": "Payments for Restructuring",
+    "description": "Amount of cash payments made as the result of exit or disposal activities. Excludes payments associated with a discontinued operation or an asset retirement obligation.",
+    "data": [
+        {
+            "start": "2018-07-01",
+            "end": "2018-09-30",
+            "val": 26200000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02",
+            "frame": "CY2018Q3"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 27000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 27000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 27300000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        }
+    ]
+}

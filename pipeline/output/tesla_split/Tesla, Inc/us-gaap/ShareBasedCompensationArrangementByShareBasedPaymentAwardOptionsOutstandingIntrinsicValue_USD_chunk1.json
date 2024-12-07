@@ -1,0 +1,106 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsOutstandingIntrinsicValue",
+    "unit": "USD",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Options, Outstanding, Intrinsic Value",
+    "description": "Amount by which the current fair value of the underlying stock exceeds the exercise price of options outstanding.",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 250100000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 243900000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 243900000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 317700000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 317700000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2800000000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2800000000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 4000000000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 4000000000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 3900000000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        }
+    ]
+}

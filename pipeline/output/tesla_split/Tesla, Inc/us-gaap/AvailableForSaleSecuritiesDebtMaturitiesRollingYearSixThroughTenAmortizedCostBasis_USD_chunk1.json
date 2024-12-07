@@ -1,0 +1,80 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleSecuritiesDebtMaturitiesRollingYearSixThroughTenAmortizedCostBasis",
+    "unit": "USD",
+    "label": "Debt Securities, Available-for-sale, Maturity, Allocated and Single Maturity Date, Rolling after Five Through Ten Years, Amortized Cost",
+    "description": "Amortized cost of investment in debt security, measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), with single maturity date and allocated without single maturity date, maturing in rolling sixth through tenth fiscal year following latest fiscal year. For interim and annual periods when interim period is reported on rolling approach, from latest statement of financial position date.",
+    "data": [
+        {
+            "end": "2022-03-31",
+            "val": 8000000,
+            "accn": "0000950170-22-006034",
+            "fy": 2022,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2022-04-25",
+            "frame": "CY2022Q1I"
+        },
+        {
+            "end": "2022-06-30",
+            "val": 104000000,
+            "accn": "0000950170-22-012936",
+            "fy": 2022,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2022-07-25",
+            "frame": "CY2022Q2I"
+        },
+        {
+            "end": "2022-09-30",
+            "val": 56000000,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24",
+            "frame": "CY2022Q3I"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 161000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022Q4I"
+        },
+        {
+            "end": "2023-03-31",
+            "val": 148000000,
+            "accn": "0000950170-23-013890",
+            "fy": 2023,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2023-04-24",
+            "frame": "CY2023Q1I"
+        },
+        {
+            "end": "2023-06-30",
+            "val": 63000000,
+            "accn": "0000950170-23-033872",
+            "fy": 2023,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2023-07-24",
+            "frame": "CY2023Q2I"
+        },
+        {
+            "end": "2023-09-30",
+            "val": 28000000,
+            "accn": "0001628280-23-034847",
+            "fy": 2023,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2023-10-23",
+            "frame": "CY2023Q3I"
+        }
+    ]
+}

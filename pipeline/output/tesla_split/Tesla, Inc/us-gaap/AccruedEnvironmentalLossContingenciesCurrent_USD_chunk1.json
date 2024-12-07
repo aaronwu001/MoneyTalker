@@ -1,0 +1,96 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AccruedEnvironmentalLossContingenciesCurrent",
+    "unit": "USD",
+    "label": "Accrued Environmental Loss Contingencies, Current",
+    "description": "Carrying value of the obligation (known or estimated) arising from requirements to perform activities to remediate one or more sites, payable in twelve months or in the next operating cycle if longer.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 2132000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2132000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2132000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2132000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 2132000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 2289000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 2390000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 6632000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 3573000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

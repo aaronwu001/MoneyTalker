@@ -1,0 +1,87 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "RestrictedCashAndCashEquivalents",
+    "unit": "USD",
+    "label": "Restricted Cash and Cash Equivalents",
+    "description": "Amount of cash and cash equivalents restricted as to withdrawal or usage. Cash includes, but is not limited to, currency on hand, demand deposits with banks or financial institutions, and other accounts with general characteristics of demand deposits. Cash equivalents include, but are not limited to, short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates.",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 78500000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 31500000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 31500000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 24300000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 24300000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 9400000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 9400000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 29300000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

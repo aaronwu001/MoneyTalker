@@ -1,0 +1,40 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "LinesOfCreditFairValueDisclosure",
+    "unit": "USD",
+    "label": "Lines of Credit, Fair Value Disclosure",
+    "description": "Fair value portion of contractual arrangement with a lender under which borrowings can be made up to a specific amount at any point in time.",
+    "data": [
+        {
+            "end": "2016-03-31",
+            "val": 565000000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 678000000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2016-09-30",
+            "val": 200000000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3I"
+        }
+    ]
+}

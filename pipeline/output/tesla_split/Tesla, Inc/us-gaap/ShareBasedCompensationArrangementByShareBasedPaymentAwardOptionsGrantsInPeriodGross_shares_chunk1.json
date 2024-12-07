@@ -1,0 +1,84 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsGrantsInPeriodGross",
+    "unit": "shares",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Options, Grants in Period, Gross",
+    "description": "Gross number of share options (or share units) granted during the period.",
+    "data": [
+        {
+            "start": "2012-01-01",
+            "end": "2012-09-30",
+            "val": 5274901,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": 5274901,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 2643821,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 1432171,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 1102190,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-06-30",
+            "val": 0,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-09-30",
+            "val": 0,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29"
+        }
+    ]
+}

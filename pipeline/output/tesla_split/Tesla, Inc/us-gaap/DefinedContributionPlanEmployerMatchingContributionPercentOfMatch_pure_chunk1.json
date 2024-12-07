@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DefinedContributionPlanEmployerMatchingContributionPercentOfMatch",
+    "unit": "pure",
+    "label": "Defined Contribution Plan, Employer Matching Contribution, Percent of Match",
+    "description": "Percentage employer matches of the employee's percentage contribution matched.",
+    "data": [
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 0.5,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 0.5,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 0.5,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

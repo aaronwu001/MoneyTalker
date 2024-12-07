@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleSecuritiesDebtMaturitiesRollingAfterYearTenAmortizedCostBasis",
+    "unit": "USD",
+    "label": "Debt Securities, Available-for-sale, Maturity, Allocated and Single Maturity Date, Rolling after 10 Years, Amortized Cost",
+    "description": "Amortized cost of investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale), with single maturity date and allocated without single maturity date, maturing after rolling tenth fiscal year following latest fiscal year. For interim and annual periods when interim period is reported on rolling approach, from latest statement of financial position date.",
+    "data": [
+        {
+            "end": "2022-03-31",
+            "val": 162000000,
+            "accn": "0000950170-22-006034",
+            "fy": 2022,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2022-04-25",
+            "frame": "CY2022Q1I"
+        }
+    ]
+}

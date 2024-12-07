@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DebtInstrumentRedemptionPricePercentage",
+    "unit": "pure",
+    "label": "Debt Instrument, Redemption Price, Percentage",
+    "description": "Percentage price of original principal amount of debt at which debt can be redeemed by the issuer.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-06-30",
+            "val": 0.98,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09"
+        }
+    ]
+}

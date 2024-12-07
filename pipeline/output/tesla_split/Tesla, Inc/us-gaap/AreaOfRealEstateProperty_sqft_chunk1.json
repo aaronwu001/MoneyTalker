@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AreaOfRealEstateProperty",
+    "unit": "sqft",
+    "label": "Area of Real Estate Property",
+    "description": "Area of a real estate property.",
+    "data": [
+        {
+            "end": "2012-12-31",
+            "val": 350000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q4I"
+        }
+    ]
+}

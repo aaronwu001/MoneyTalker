@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DebtInstrumentUnamortizedDiscount",
+    "unit": "USD",
+    "label": "Debt Instrument, Unamortized Discount",
+    "description": "Amount, after accumulated amortization, of debt discount.",
+    "data": [
+        {
+            "end": "2013-09-30",
+            "val": 77500000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08",
+            "frame": "CY2013Q3I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 82800000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013Q4I"
+        }
+    ]
+}

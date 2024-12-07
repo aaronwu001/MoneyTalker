@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriodWeightedAverageGrantDateFairValue",
+    "unit": "USD/shares",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period, Weighted Average Grant Date Fair Value",
+    "description": "The weighted average fair value at grant date for nonvested equity-based awards issued during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 202.59,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 308.71,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 316.46,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2018"
+        }
+    ]
+}

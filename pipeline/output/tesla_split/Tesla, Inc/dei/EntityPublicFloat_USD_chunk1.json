@@ -1,0 +1,176 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "dei",
+    "feature": "EntityPublicFloat",
+    "unit": "USD",
+    "label": "Entity Public Float",
+    "description": "The aggregate market value of the voting and non-voting common equity held by non-affiliates computed by reference to the price at which the common equity was last sold, or the average bid and asked price of such common equity, as of the last business day of the registrant's most recently completed second fiscal quarter.",
+    "data": [
+        {
+            "end": "2011-06-30",
+            "val": 1854208453,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        },
+        {
+            "end": "2011-06-30",
+            "val": 1854208453,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011Q2I"
+        },
+        {
+            "end": "2012-06-30",
+            "val": 1991698678,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q2I"
+        },
+        {
+            "end": "2013-06-30",
+            "val": 9911123918,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013Q2I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 22968512773,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2015-06-30",
+            "val": 26340519416,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q2I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 24663024104,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2017-06-30",
+            "val": 47830000000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017Q2I"
+        },
+        {
+            "end": "2018-06-30",
+            "val": 46570000000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2018Q2I"
+        },
+        {
+            "end": "2019-06-30",
+            "val": 31540000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "end": "2019-06-30",
+            "val": 31540000000,
+            "accn": "0001564590-20-018984",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2020-04-28",
+            "frame": "CY2019Q2I"
+        },
+        {
+            "end": "2020-06-30",
+            "val": 160570000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "end": "2020-06-30",
+            "val": 160570000000,
+            "accn": "0001564590-21-022604",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2021-04-30",
+            "frame": "CY2020Q2I"
+        },
+        {
+            "end": "2021-06-30",
+            "val": 541280000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "end": "2021-06-30",
+            "val": 541280000000,
+            "accn": "0001564590-22-016871",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2022-05-02",
+            "frame": "CY2021Q2I"
+        },
+        {
+            "end": "2022-06-30",
+            "val": 580480000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022Q2I"
+        },
+        {
+            "end": "2023-06-30",
+            "val": 722520000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023Q2I"
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "NotesReceivableNet",
+    "unit": "USD",
+    "label": "Financing Receivable, after Allowance for Credit Loss",
+    "description": "Amount, after allowance for credit loss, of financing receivable. Excludes financing receivable covered under loss sharing agreement.",
+    "data": [
+        {
+            "end": "2022-06-30",
+            "val": 320000000,
+            "accn": "0000950170-22-012936",
+            "fy": 2022,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2022-07-25",
+            "frame": "CY2022Q2I"
+        },
+        {
+            "end": "2022-09-30",
+            "val": 76000000,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24",
+            "frame": "CY2022Q3I"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 128000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 128000000,
+            "accn": "0000950170-23-013890",
+            "fy": 2023,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2023-04-24"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 128000000,
+            "accn": "0000950170-23-033872",
+            "fy": 2023,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2023-07-24",
+            "frame": "CY2022Q4I"
+        },
+        {
+            "end": "2023-03-31",
+            "val": 191000000,
+            "accn": "0000950170-23-013890",
+            "fy": 2023,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2023-04-24",
+            "frame": "CY2023Q1I"
+        },
+        {
+            "end": "2023-06-30",
+            "val": 234000000,
+            "accn": "0000950170-23-033872",
+            "fy": 2023,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2023-07-24",
+            "frame": "CY2023Q2I"
+        }
+    ]
+}

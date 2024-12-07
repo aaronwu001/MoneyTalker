@@ -1,0 +1,116 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "EffectiveIncomeTaxRateContinuingOperations",
+    "unit": "pure",
+    "label": "Effective Income Tax Rate Reconciliation, Percent",
+    "description": "Percentage of current income tax expense (benefit) and deferred income tax expense (benefit) pertaining to continuing operations.",
+    "data": [
+        {
+            "start": "2023-01-01",
+            "end": "2023-03-31",
+            "val": 0.09,
+            "accn": "0001628280-24-017503",
+            "fy": 2024,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2024-04-24",
+            "frame": "CY2023Q1"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-06-30",
+            "val": 0.1,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24"
+        },
+        {
+            "start": "2023-04-01",
+            "end": "2023-06-30",
+            "val": 0.11,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24",
+            "frame": "CY2023Q2"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-09-30",
+            "val": 0.1,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24"
+        },
+        {
+            "start": "2023-07-01",
+            "end": "2023-09-30",
+            "val": 0.08,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2023Q3"
+        },
+        {
+            "start": "2024-01-01",
+            "end": "2024-03-31",
+            "val": 0.26,
+            "accn": "0001628280-24-017503",
+            "fy": 2024,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2024-04-24",
+            "frame": "CY2024Q1"
+        },
+        {
+            "start": "2024-01-01",
+            "end": "2024-06-30",
+            "val": 0.23,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24"
+        },
+        {
+            "start": "2024-04-01",
+            "end": "2024-06-30",
+            "val": 0.21,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24",
+            "frame": "CY2024Q2"
+        },
+        {
+            "start": "2024-01-01",
+            "end": "2024-09-30",
+            "val": 0.23,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24"
+        },
+        {
+            "start": "2024-07-01",
+            "end": "2024-09-30",
+            "val": 0.22,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2024Q3"
+        }
+    ]
+}

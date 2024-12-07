@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ValuationAllowanceDeferredTaxAssetChangeInAmount",
+    "unit": "USD",
+    "label": "Valuation Allowance, Deferred Tax Asset, Increase (Decrease), Amount",
+    "description": "Amount of increase (decrease) in the valuation allowance for a specified deferred tax asset.",
+    "data": [
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 144000000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 354300000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": -6540000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

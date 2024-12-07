@@ -1,0 +1,49 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredRevenueAndCredits",
+    "unit": "USD",
+    "label": "Deferred Revenue and Credits",
+    "description": "Total carrying amount of consideration received or receivable as of the balance sheet date representing potential earnings that were not as yet recognized as revenue or other forms of income in conformity with GAAP.",
+    "data": [
+        {
+            "end": "2017-12-31",
+            "val": 0,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06",
+            "frame": "CY2017Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 0,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07"
+        },
+        {
+            "end": "2018-03-31",
+            "val": 0,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2018Q1I"
+        },
+        {
+            "end": "2018-06-30",
+            "val": 0,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06",
+            "frame": "CY2018Q2I"
+        }
+    ]
+}

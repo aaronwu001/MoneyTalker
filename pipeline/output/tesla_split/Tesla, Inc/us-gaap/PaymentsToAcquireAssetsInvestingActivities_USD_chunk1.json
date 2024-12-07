@@ -1,0 +1,61 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PaymentsToAcquireAssetsInvestingActivities",
+    "unit": "USD",
+    "label": "Payments to Acquire Assets, Investing Activities",
+    "description": "Aggregate cash payments for a combination of transactions that are classified as investing activities in which assets, which may include securities, other types of investments, or productive assets, are purchased from third-party sellers. This element can be used by entities to aggregate payments for all asset purchases that are classified as investing activities.",
+    "data": [
+        {
+            "start": "2010-01-01",
+            "end": "2010-09-30",
+            "val": 58710000,
+            "accn": "0001193125-11-308489",
+            "fy": 2011,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2011-11-14"
+        },
+        {
+            "start": "2010-10-01",
+            "end": "2010-10-31",
+            "val": 42000000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 65210000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 65210000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 65210000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        }
+    ]
+}

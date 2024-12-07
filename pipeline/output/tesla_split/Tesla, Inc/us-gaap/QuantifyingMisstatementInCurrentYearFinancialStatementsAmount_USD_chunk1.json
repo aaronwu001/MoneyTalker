@@ -1,0 +1,31 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "QuantifyingMisstatementInCurrentYearFinancialStatementsAmount",
+    "unit": "USD",
+    "label": "Quantifying Misstatement in Current Year Financial Statements, Amount",
+    "description": "Amount of each individual error being corrected in the correcting adjustment.",
+    "data": [
+        {
+            "start": "2010-04-01",
+            "end": "2010-06-30",
+            "val": 2400000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010Q2"
+        },
+        {
+            "start": "2010-04-01",
+            "end": "2010-06-30",
+            "val": 2400000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        }
+    ]
+}

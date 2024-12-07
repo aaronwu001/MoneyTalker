@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "UnrecognizedTaxBenefitsDecreasesResultingFromSettlementsWithTaxingAuthorities",
+    "unit": "USD",
+    "label": "Unrecognized Tax Benefits, Decrease Resulting from Settlements with Taxing Authorities",
+    "description": "Amount of decrease in unrecognized tax benefits resulting from settlements with taxing authorities.",
+    "data": [
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": 6000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

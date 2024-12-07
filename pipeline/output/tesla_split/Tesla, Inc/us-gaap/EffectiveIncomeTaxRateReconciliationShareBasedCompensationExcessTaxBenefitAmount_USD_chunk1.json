@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "EffectiveIncomeTaxRateReconciliationShareBasedCompensationExcessTaxBenefitAmount",
+    "unit": "USD",
+    "label": "Effective Income Tax Rate Reconciliation, Tax Expense (Benefit), Share-based Payment Arrangement, Amount",
+    "description": "Amount of difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying domestic federal statutory income tax rate to pretax income (loss) from continuing operation, attributable to expense for award under share-based payment arrangement. Excludes expense determined to be nondeductible upon grant or after for award under share-based payment arrangement.",
+    "data": [
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": -7123000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": -745000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022"
+        },
+        {
+            "start": "2023-01-01",
+            "end": "2023-12-31",
+            "val": -288000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023"
+        }
+    ]
+}

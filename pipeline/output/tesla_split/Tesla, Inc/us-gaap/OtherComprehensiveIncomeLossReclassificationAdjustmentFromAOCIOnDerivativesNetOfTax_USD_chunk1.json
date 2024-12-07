@@ -1,0 +1,145 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeLossReclassificationAdjustmentFromAOCIOnDerivativesNetOfTax",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Reclassification Adjustment from AOCI on Derivatives, Net of Tax",
+    "description": "Amount after tax of reclassification adjustment from accumulated other comprehensive income of accumulated gain (loss) realized from derivative instruments designated and qualifying as the effective portion of cash flow hedges and an entity's share of an equity investee's deferred hedging gain (loss).",
+    "data": [
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": -22000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-09-30",
+            "val": 15523000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03"
+        },
+        {
+            "start": "2016-07-01",
+            "end": "2016-09-30",
+            "val": 14246000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03",
+            "frame": "CY2016Q3"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 44904000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 44904000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-03-31",
+            "val": 5570000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2017Q1"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-03-31",
+            "val": 5570000,
+            "accn": "0001564590-17-009968",
+            "fy": 2017,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2017-05-10"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-06-30",
+            "val": 5570000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-06-30",
+            "val": 5570000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-09-30",
+            "val": 5570000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-09-30",
+            "val": 5570000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 5570000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 5570000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        }
+    ]
+}

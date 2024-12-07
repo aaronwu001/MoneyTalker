@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ConvertibleNotesPayableCurrent",
+    "unit": "USD",
+    "label": "Convertible Notes Payable, Current",
+    "description": "Carrying value as of the balance sheet date of the portion of long-term debt due within one year or the operating cycle if longer identified as Convertible Notes Payable. Convertible Notes Payable is a written promise to pay a note which can be exchanged for a specified amount of another, related security, at the option of the issuer and the holder.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 182000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 601566000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

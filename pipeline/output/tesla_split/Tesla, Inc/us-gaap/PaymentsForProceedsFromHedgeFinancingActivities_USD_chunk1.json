@@ -1,0 +1,104 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PaymentsForProceedsFromHedgeFinancingActivities",
+    "unit": "USD",
+    "label": "Payments for (Proceeds from) Hedge, Financing Activities",
+    "description": "The net cash outflow or inflow for a financial contract that meets the hedge criteria as either cash flow hedge, fair value hedge or hedge of net investment in foreign operations.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 177540000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 177540000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 524720000,
+            "accn": "0001564590-15-003789",
+            "fy": 2015,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2015-05-11",
+            "frame": "CY2014Q1"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-06-30",
+            "val": 603428000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-09-30",
+            "val": 603428000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 603428000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 603428000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 603428000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-03-31",
+            "val": 204102000,
+            "accn": "0001564590-17-009968",
+            "fy": 2017,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2017-05-10",
+            "frame": "CY2017Q1"
+        }
+    ]
+}

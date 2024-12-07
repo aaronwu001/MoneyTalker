@@ -1,0 +1,32 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AccrualForEnvironmentalLossContingenciesPayments",
+    "unit": "USD",
+    "label": "Accrual for Environmental Loss Contingencies, Payments (Deprecated 2016-01-31)",
+    "description": "The aggregate amount disbursed during the reporting period to settle environmental loss contingencies.",
+    "data": [
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 3100000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 6940000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        }
+    ]
+}

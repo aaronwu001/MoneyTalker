@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "SalesTypeLeaseNetInvestmentInLeaseAfterAllowanceForCreditLossNoncurrent",
+    "unit": "USD",
+    "label": null,
+    "description": null,
+    "data": [
+        {
+            "end": "2022-12-31",
+            "val": 574000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022Q4I"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 507000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023Q4I"
+        }
+    ]
+}

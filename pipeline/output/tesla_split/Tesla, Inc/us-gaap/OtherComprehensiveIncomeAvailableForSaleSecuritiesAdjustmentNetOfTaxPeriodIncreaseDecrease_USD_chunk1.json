@@ -1,0 +1,31 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeAvailableForSaleSecuritiesAdjustmentNetOfTaxPeriodIncreaseDecrease",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Available-for-sale Securities Adjustment, Net of Tax (Deprecated 2012-01-31)",
+    "description": "Gross appreciation or the gross loss in value of the total unsold securities. While for technical reasons this element has no balance attribute, the default assumption is a credit balance consistent with its label.",
+    "data": [
+        {
+            "start": "2011-01-01",
+            "end": "2011-12-31",
+            "val": -3000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011"
+        },
+        {
+            "start": "2011-01-01",
+            "end": "2011-12-31",
+            "val": -3000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        }
+    ]
+}

@@ -1,0 +1,65 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DefinedContributionPlanMaximumAnnualContributionsPerEmployeePercent",
+    "unit": "pure",
+    "label": "Defined Contribution Plan, Maximum Annual Contributions Per Employee, Percent",
+    "description": "Maximum percentage of employee gross pay the employee may contribute to a defined contribution plan.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 1,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 1,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 1,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 1,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2019"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 1,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08",
+            "frame": "CY2020"
+        }
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ClassOfWarrantOrRightNumberOfSecuritiesCalledByWarrantsOrRights",
+    "unit": "shares",
+    "label": "Class of Warrant or Right, Number of Securities Called by Warrants or Rights",
+    "description": "Number of securities into which the class of warrant or right may be converted. For example, but not limited to, 500,000 warrants may be converted into 1,000,000 shares.",
+    "data": [
+        {
+            "end": "2011-12-31",
+            "val": 3090111,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2012-03-31",
+            "val": 3090111,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1I"
+        },
+        {
+            "end": "2012-06-30",
+            "val": 3090111,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02",
+            "frame": "CY2012Q2I"
+        },
+        {
+            "end": "2012-09-30",
+            "val": 3090111,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07",
+            "frame": "CY2012Q3I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5100,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2013-01-31",
+            "val": 3090111,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "end": "2013-03-31",
+            "val": 3090111,
+            "accn": "0001193125-13-212354",
+            "fy": 2013,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2013-05-10",
+            "frame": "CY2013Q1I"
+        },
+        {
+            "end": "2013-06-30",
+            "val": 3090111,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09",
+            "frame": "CY2013Q2I"
+        },
+        {
+            "end": "2013-09-30",
+            "val": 3090111,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08",
+            "frame": "CY2013Q3I"
+        },
+        {
+            "end": "2014-03-31",
+            "val": 3090111,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 3090111,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 3090111,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 3090111,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        }
+    ]
+}

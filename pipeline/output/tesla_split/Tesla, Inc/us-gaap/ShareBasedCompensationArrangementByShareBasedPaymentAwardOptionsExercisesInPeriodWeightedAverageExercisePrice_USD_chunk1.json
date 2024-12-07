@@ -1,0 +1,40 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardOptionsExercisesInPeriodWeightedAverageExercisePrice",
+    "unit": "USD",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Options, Exercises in Period, Weighted Average Exercise Price (Deprecated 2012-01-31)",
+    "description": "The weighted average price at which option holders acquired shares when converting their stock options into shares under the plan during the reporting period.",
+    "data": [
+        {
+            "end": "2009-12-31",
+            "val": 1.19,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2009Q4I"
+        },
+        {
+            "end": "2010-12-31",
+            "val": 1.84,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 5.41,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011Q4I"
+        }
+    ]
+}

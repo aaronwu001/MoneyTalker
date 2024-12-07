@@ -1,0 +1,52 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ExcessTaxBenefitFromShareBasedCompensationFinancingActivities",
+    "unit": "USD",
+    "label": "Excess Tax Benefit from Share-based Compensation, Financing Activities",
+    "description": "Amount of cash inflow from realized tax benefit related to deductible compensation cost reported on the entity's tax return for equity instruments in excess of the compensation cost for those instruments recognized for financial reporting purposes.",
+    "data": [
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 74000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 74000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 74000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 1013196000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017"
+        }
+    ]
+}

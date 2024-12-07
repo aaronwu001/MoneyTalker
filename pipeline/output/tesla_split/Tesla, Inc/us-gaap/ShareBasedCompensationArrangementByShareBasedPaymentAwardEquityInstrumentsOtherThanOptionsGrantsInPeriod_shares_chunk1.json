@@ -1,0 +1,73 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ShareBasedCompensationArrangementByShareBasedPaymentAwardEquityInstrumentsOtherThanOptionsGrantsInPeriod",
+    "unit": "shares",
+    "label": "Share-based Compensation Arrangement by Share-based Payment Award, Equity Instruments Other than Options, Grants in Period",
+    "description": "The number of grants made during the period on other than stock (or unit) option plans (for example, phantom stock or unit plan, stock or unit appreciation rights plan, performance target plan).",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 702078,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 702078,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 702078,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 1093075,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 1093075,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 1625920,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "SalesTypeAndDirectFinancingLeasesLeaseReceivablePaymentsToBeReceivedNextTwelveMonths",
+    "unit": "USD",
+    "label": "Sales-Type and Direct Financing Leases, Lease Receivable, to be Received, Year One",
+    "description": "Amount of undiscounted cash flows to be received by lessor for sales-type and direct financing leases in next fiscal year following current fiscal year. Excludes interim and annual periods when interim periods are reported from current statement of financial position date (rolling approach).",
+    "data": [
+        {
+            "end": "2020-12-31",
+            "val": 21000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08",
+            "frame": "CY2020Q4I"
+        },
+        {
+            "end": "2021-12-31",
+            "val": 91000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2021Q4I"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 202000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022Q4I"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 227000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023Q4I"
+        }
+    ]
+}

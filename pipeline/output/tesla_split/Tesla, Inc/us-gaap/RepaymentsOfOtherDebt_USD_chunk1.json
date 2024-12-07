@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "RepaymentsOfOtherDebt",
+    "unit": "USD",
+    "label": "Repayments of Other Debt",
+    "description": "Amount of cash outflow for the payment of debt classified as other.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-06-30",
+            "val": 578683000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05"
+        }
+    ]
+}

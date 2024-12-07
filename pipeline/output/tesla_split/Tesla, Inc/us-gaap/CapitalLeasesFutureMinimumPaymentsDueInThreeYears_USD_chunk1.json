@@ -1,0 +1,126 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "CapitalLeasesFutureMinimumPaymentsDueInThreeYears",
+    "unit": "USD",
+    "label": "Capital Leases, Future Minimum Payments Due in Three Years",
+    "description": "Amount of minimum lease payments for capital leases due in the third fiscal year following the latest fiscal year. Excludes interim and annual periods when interim periods are reported on a rolling approach, from latest balance sheet date.",
+    "data": [
+        {
+            "end": "2011-12-31",
+            "val": 1349000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 3566000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 4512000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 3592000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 5488000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 23793000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016Q4I"
+        },
+        {
+            "end": "2017-12-31",
+            "val": 167281000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2017Q4I"
+        },
+        {
+            "end": "2018-12-31",
+            "val": 506000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2018Q4I"
+        },
+        {
+            "end": "2018-12-31",
+            "val": 506000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29"
+        },
+        {
+            "end": "2018-12-31",
+            "val": 506197000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29"
+        },
+        {
+            "end": "2018-12-31",
+            "val": 506197000,
+            "accn": "0001564590-19-013462",
+            "fy": 2019,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2019-04-29"
+        },
+        {
+            "end": "2018-12-31",
+            "val": 506197000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        }
+    ]
+}

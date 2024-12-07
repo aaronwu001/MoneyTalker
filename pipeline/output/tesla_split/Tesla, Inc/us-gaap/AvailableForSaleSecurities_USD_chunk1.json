@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleSecurities",
+    "unit": "USD",
+    "label": "Available-for-sale Securities",
+    "description": "Amount of investment in debt and equity securities categorized neither as held-to-maturity nor trading.",
+    "data": [
+        {
+            "end": "2014-03-31",
+            "val": 189111000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1I"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 139125000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        }
+    ]
+}

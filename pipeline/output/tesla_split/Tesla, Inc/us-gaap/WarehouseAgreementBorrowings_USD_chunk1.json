@@ -1,0 +1,40 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "WarehouseAgreementBorrowings",
+    "unit": "USD",
+    "label": "Warehouse Agreement Borrowings",
+    "description": "Carrying value as of the balance sheet date of the outstanding short-term borrowings under a revolving line of credit used by mortgage bankers to finance the origination or purchase of loans.",
+    "data": [
+        {
+            "end": "2015-03-31",
+            "val": 77700000,
+            "accn": "0001564590-15-003789",
+            "fy": 2015,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2015-05-11",
+            "frame": "CY2015Q1I"
+        },
+        {
+            "end": "2015-06-30",
+            "val": 114300000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07",
+            "frame": "CY2015Q2I"
+        },
+        {
+            "end": "2015-09-30",
+            "val": 124400000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05",
+            "frame": "CY2015Q3I"
+        }
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "IncreaseDecreaseInNotesReceivables",
+    "unit": "USD",
+    "label": "Increase (Decrease) in Notes Receivables",
+    "description": "The increase (decrease) during the reporting period of the amounts due from borrowers for outstanding secured or unsecured loans evidenced by a note.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -3468000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016"
+        }
+    ]
+}

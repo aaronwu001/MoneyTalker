@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "IncomeTaxReconciliationTaxCreditsInvestment",
+    "unit": "USD",
+    "label": "Effective Income Tax Rate Reconciliation, Tax Credit, Investment, Amount",
+    "description": "Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to investment tax credit.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 31055000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2016"
+        }
+    ]
+}

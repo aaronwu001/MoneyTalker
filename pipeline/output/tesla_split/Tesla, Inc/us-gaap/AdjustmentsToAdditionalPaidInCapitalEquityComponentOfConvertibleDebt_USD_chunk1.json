@@ -1,0 +1,125 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AdjustmentsToAdditionalPaidInCapitalEquityComponentOfConvertibleDebt",
+    "unit": "USD",
+    "label": "Adjustments to Additional Paid in Capital, Equity Component of Convertible Debt",
+    "description": "Adjustment to additional paid in capital resulting from the recognition of convertible debt instruments as two separate components - a debt component and an equity component. This bifurcation may result in a basis difference associated with the liability component that represents a temporary difference for purposes of applying accounting for income taxes. The initial recognition of deferred taxes for the tax effect of that temporary difference is as an adjustment to additional paid in capital.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 82842000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2013"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 82842000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 548603000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 548603000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 548603000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 16150000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 145613000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 145613000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-06-30",
+            "val": 490944000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29"
+        },
+        {
+            "start": "2019-04-01",
+            "end": "2019-06-30",
+            "val": 490944000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29",
+            "frame": "CY2019Q2"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-09-30",
+            "val": 491000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29"
+        }
+    ]
+}

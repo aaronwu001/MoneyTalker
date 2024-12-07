@@ -1,0 +1,41 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "IncreaseDecreaseInCustomerDeposits",
+    "unit": "USD",
+    "label": "Increase (Decrease) in Customer Deposits",
+    "description": "The increase (decrease) during the period in the amount of customer money held in customer accounts, including security deposits, collateral for a current or future transactions, initial payment of the cost of acquisition or for the right to enter into a contract or agreement.",
+    "data": [
+        {
+            "start": "2018-01-01",
+            "end": "2018-03-31",
+            "val": 58600000,
+            "accn": "0001564590-18-011086",
+            "fy": 2018,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2018-05-07",
+            "frame": "CY2018Q1"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-06-30",
+            "val": 58500000,
+            "accn": "0001564590-18-019254",
+            "fy": 2018,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2018-08-06"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-09-30",
+            "val": 55600000,
+            "accn": "0001564590-18-026353",
+            "fy": 2018,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2018-11-02"
+        }
+    ]
+}

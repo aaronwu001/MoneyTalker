@@ -1,0 +1,58 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxLiabilitiesTaxDeferredIncome",
+    "unit": "USD",
+    "label": "Deferred Tax Liabilities, Tax Deferred Income",
+    "description": "Amount of deferred tax liability attributable to taxable temporary differences from tax deferred revenue or income classified as other.",
+    "data": [
+        {
+            "end": "2020-12-31",
+            "val": 50000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "end": "2020-12-31",
+            "val": 50000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2020Q4I"
+        },
+        {
+            "end": "2021-12-31",
+            "val": 49000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "end": "2021-12-31",
+            "val": 49000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2021Q4I"
+        },
+        {
+            "end": "2022-12-31",
+            "val": 0,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022Q4I"
+        }
+    ]
+}

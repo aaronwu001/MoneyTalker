@@ -1,0 +1,142 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ProceedsFromSaleAndMaturityOfMarketableSecurities",
+    "unit": "USD",
+    "label": "Proceeds from Sale and Maturity of Marketable Securities",
+    "description": "The cash inflow associated with the aggregate amount received by the entity through sale or maturity of marketable securities (held-to-maturity or available-for-sale) during the period.",
+    "data": [
+        {
+            "start": "2014-01-01",
+            "end": "2014-06-30",
+            "val": 189131000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-09-30",
+            "val": 189131000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 189131000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 189131000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-06-30",
+            "val": 16667000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-06-30",
+            "val": 16667000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-09-30",
+            "val": 16667000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-09-30",
+            "val": 16667000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 16667000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 16667000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 16667000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-09-30",
+            "val": 0,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-09-30",
+            "val": 3000000,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24"
+        }
+    ]
+}

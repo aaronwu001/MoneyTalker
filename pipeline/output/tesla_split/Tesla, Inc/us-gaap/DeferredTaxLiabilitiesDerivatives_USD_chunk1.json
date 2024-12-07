@@ -1,0 +1,29 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxLiabilitiesDerivatives",
+    "unit": "USD",
+    "label": "Deferred Tax Liabilities, Derivatives",
+    "description": "Amount of deferred tax liability attributable to taxable temporary differences from derivatives.",
+    "data": [
+        {
+            "end": "2016-12-31",
+            "val": 22033000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2016Q4I"
+        },
+        {
+            "end": "2016-12-31",
+            "val": 22033000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        }
+    ]
+}

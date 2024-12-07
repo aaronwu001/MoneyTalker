@@ -1,0 +1,152 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "UnamortizedDebtIssuanceExpense",
+    "unit": "USD",
+    "label": "Unamortized Debt Issuance Expense",
+    "description": "The remaining balance of debt issuance expenses that were capitalized and are being amortized against income over the lives of the respective bond issues. This does not include the amounts capitalized as part of the cost of the utility plant or asset.",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 7053000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 6407000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 6407000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 6407000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 6407000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 6407000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-03-31",
+            "val": 6246000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1I"
+        },
+        {
+            "end": "2012-06-30",
+            "val": 6085000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02",
+            "frame": "CY2012Q2I"
+        },
+        {
+            "end": "2012-09-30",
+            "val": 5922000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07",
+            "frame": "CY2012Q3I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5759000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2012Q4I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5759000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5759000,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5759000,
+            "accn": "0001193125-13-212354",
+            "fy": 2013,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2013-05-10"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 5759000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07"
+        },
+        {
+            "end": "2013-03-31",
+            "val": 5558000,
+            "accn": "0001193125-13-212354",
+            "fy": 2013,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2013-05-10",
+            "frame": "CY2013Q1I"
+        }
+    ]
+}

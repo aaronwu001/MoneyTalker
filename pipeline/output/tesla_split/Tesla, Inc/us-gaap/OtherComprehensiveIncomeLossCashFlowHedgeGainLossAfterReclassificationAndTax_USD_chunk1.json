@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeLossCashFlowHedgeGainLossAfterReclassificationAndTax",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Cash Flow Hedge, Gain (Loss), after Reclassification and Tax",
+    "description": "Amount, after tax and reclassification, of gain (loss) from derivative instrument designated and qualifying as cash flow hedge included in assessment of hedge effectiveness.",
+    "data": [
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -6000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2017"
+        }
+    ]
+}

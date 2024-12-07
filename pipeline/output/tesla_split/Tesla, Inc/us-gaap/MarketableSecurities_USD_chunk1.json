@@ -1,0 +1,68 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "MarketableSecurities",
+    "unit": "USD",
+    "label": "Marketable Securities",
+    "description": "Amount of investment in marketable security.",
+    "data": [
+        {
+            "end": "2021-12-31",
+            "val": 131000000,
+            "accn": "0000950170-22-006034",
+            "fy": 2022,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2022-04-25"
+        },
+        {
+            "end": "2021-12-31",
+            "val": 131000000,
+            "accn": "0000950170-22-012936",
+            "fy": 2022,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2022-07-25"
+        },
+        {
+            "end": "2021-12-31",
+            "val": 131000000,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24",
+            "frame": "CY2021Q4I"
+        },
+        {
+            "end": "2022-03-31",
+            "val": 508000000,
+            "accn": "0000950170-22-006034",
+            "fy": 2022,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2022-04-25",
+            "frame": "CY2022Q1I"
+        },
+        {
+            "end": "2022-06-30",
+            "val": 591000000,
+            "accn": "0000950170-22-012936",
+            "fy": 2022,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2022-07-25",
+            "frame": "CY2022Q2I"
+        },
+        {
+            "end": "2022-09-30",
+            "val": 1575000000,
+            "accn": "0000950170-22-019867",
+            "fy": 2022,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2022-10-24",
+            "frame": "CY2022Q3I"
+        }
+    ]
+}

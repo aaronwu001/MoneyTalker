@@ -1,0 +1,87 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleDebtSecuritiesAccumulatedGrossUnrealizedLossBeforeTax",
+    "unit": "USD",
+    "label": "Debt Securities, Available-for-sale, Accumulated Gross Unrealized Loss, before Tax",
+    "description": "Amount, before tax, of unrealized loss in accumulated other comprehensive income (AOCI) on investment in debt security measured at fair value with change in fair value recognized in other comprehensive income (available-for-sale).",
+    "data": [
+        {
+            "end": "2022-12-31",
+            "val": 25000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2022Q4I"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 7000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 7000000,
+            "accn": "0001628280-24-017503",
+            "fy": 2024,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2024-04-24"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 7000000,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 7000000,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2023Q4I"
+        },
+        {
+            "end": "2024-03-31",
+            "val": 9000000,
+            "accn": "0001628280-24-017503",
+            "fy": 2024,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2024-04-24",
+            "frame": "CY2024Q1I"
+        },
+        {
+            "end": "2024-06-30",
+            "val": 6000000,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24",
+            "frame": "CY2024Q2I"
+        },
+        {
+            "end": "2024-09-30",
+            "val": 2000000,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2024Q3I"
+        }
+    ]
+}

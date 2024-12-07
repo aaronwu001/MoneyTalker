@@ -1,0 +1,197 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "IncomeTaxReconciliationMinorityInterestIncomeExpense",
+    "unit": "USD",
+    "label": "Effective Income Tax Rate Reconciliation, Noncontrolling Interest Income (Loss), Amount",
+    "description": "Amount of the difference between reported income tax expense (benefit) and expected income tax expense (benefit) computed by applying the domestic federal statutory income tax rates to pretax income (loss) from continuing operations attributable to noncontrolling interest income (loss) exempt from income taxes.",
+    "data": [
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -21964000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -21964000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": -21964000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -65920000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -65920000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        },
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": -66000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": -31858000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": -32000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": -32000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 29000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 29000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": -29000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2019"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": -5000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 5000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 5000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2020"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 11000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 11000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2021"
+        },
+        {
+            "start": "2022-01-01",
+            "end": "2022-12-31",
+            "val": 42000000,
+            "accn": "0000950170-23-001409",
+            "fy": 2022,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2023-01-31",
+            "frame": "CY2022"
+        }
+    ]
+}

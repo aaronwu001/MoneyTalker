@@ -1,0 +1,40 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "FinanceLeaseLiabilityPaymentsRemainderOfFiscalYear",
+    "unit": "USD",
+    "label": "Finance Lease, Liability, to be Paid, Remainder of Fiscal Year",
+    "description": "Amount of lessee's undiscounted obligation for lease payment for finance lease to be paid in remainder of current fiscal year.",
+    "data": [
+        {
+            "end": "2019-03-31",
+            "val": 315700000,
+            "accn": "0001564590-19-013462",
+            "fy": 2019,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2019-04-29",
+            "frame": "CY2019Q1I"
+        },
+        {
+            "end": "2019-06-30",
+            "val": 237862000,
+            "accn": "0001564590-19-026445",
+            "fy": 2019,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2019-07-29",
+            "frame": "CY2019Q2I"
+        },
+        {
+            "end": "2019-09-30",
+            "val": 122000000,
+            "accn": "0001564590-19-038256",
+            "fy": 2019,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2019-10-29",
+            "frame": "CY2019Q3I"
+        }
+    ]
+}

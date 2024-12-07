@@ -1,0 +1,96 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DebtInstrumentConvertibleThresholdPercentageOfStockPriceTrigger",
+    "unit": "pure",
+    "label": "Debt Instrument, Convertible, Threshold Percentage of Stock Price Trigger",
+    "description": "Minimum percentage of common stock price to conversion price of convertible debt instruments to determine eligibility of conversion.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-09-30",
+            "val": 1.3,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08"
+        },
+        {
+            "start": "2013-10-01",
+            "end": "2013-12-31",
+            "val": 1.3,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013Q4"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 1.3,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-06-30",
+            "val": 1.3,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "start": "2014-07-01",
+            "end": "2014-09-30",
+            "val": 1.3,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3"
+        },
+        {
+            "start": "2014-10-01",
+            "end": "2014-12-31",
+            "val": 1.3,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014Q4"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-03-31",
+            "val": 1.3,
+            "accn": "0001564590-15-003789",
+            "fy": 2015,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2015-05-11",
+            "frame": "CY2015Q1"
+        },
+        {
+            "start": "2015-04-01",
+            "end": "2015-06-30",
+            "val": 1.3,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07",
+            "frame": "CY2015Q2"
+        }
+    ]
+}

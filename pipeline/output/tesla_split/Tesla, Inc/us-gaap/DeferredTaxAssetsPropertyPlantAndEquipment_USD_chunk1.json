@@ -1,0 +1,58 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxAssetsPropertyPlantAndEquipment",
+    "unit": "USD",
+    "label": "Deferred Tax Assets, Property, Plant and Equipment",
+    "description": "Amount before allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences from property, plant, and equipment.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 68000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 68000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 68000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 66000,
+            "accn": "0001564590-17-003118",
+            "fy": 2016,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2017-03-01",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 66000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AvailableForSaleSecuritiesFairValueDisclosure",
+    "unit": "USD",
+    "label": "Available-for-sale Securities, Fair Value Disclosure (Deprecated 2013-01-31)",
+    "description": "This element represents the portion of the balance sheet assertion valued at fair value by the entity whether such amount is presented as a separate caption or as a parenthetical disclosure. Additionally, this element may be used in connection with the fair value disclosures required in the footnote disclosures to the financial statements. The element may be used in both the balance sheet and disclosure in the same submission. This item represents Available-for-sale Securities which consist of all investments in certain debt and equity securities neither classified as trading or held-to-maturity securities. A debt security represents a creditor relationship with an enterprise. Debt securities include, among other items, US Treasury securities, US government securities, municipal securities, corporate bonds, convertible debt, commercial paper, and all securitized debt instruments. An equity security represents an ownership interest in an enterprise or the right to acquire or dispose of an ownership interest in an enterprise at fixed or determinable prices. Equity securities include, among other things, common stock, certain preferred stock, warrant rights, call options, and put options, but do not include convertible debt. An entity may opt to provide the reader with additional narrative text to better understand the nature of investments in debt and equity securities which are categorized as Available-for-sale.",
+    "data": [
+        {
+            "end": "2011-12-31",
+            "val": 25061000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07",
+            "frame": "CY2011Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 25061000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 25061000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 25061000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "end": "2012-03-31",
+            "val": 25009000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1I"
+        },
+        {
+            "end": "2012-12-31",
+            "val": 25061000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012Q4I"
+        }
+    ]
+}

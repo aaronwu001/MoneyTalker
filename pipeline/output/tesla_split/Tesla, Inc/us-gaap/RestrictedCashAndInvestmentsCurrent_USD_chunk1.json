@@ -1,0 +1,210 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "RestrictedCashAndInvestmentsCurrent",
+    "unit": "USD",
+    "label": "Restricted Cash and Investments, Current",
+    "description": "The current cash, cash equivalents and investments that are restricted as to withdrawal or usage. Restrictions may include legally restricted deposits held as compensating balances against short-term borrowing arrangements, contracts entered into with others, or entity statements of intention with regard to particular deposits; however, time deposits and short-term certificates of deposit are not generally included in legally restricted deposits. Excludes compensating balance arrangements that are not agreements which legally restrict the use of cash amounts shown on the balance sheet. Includes current cash equivalents and investments that are similarly restricted as to withdrawal, usage or disposal.",
+    "data": [
+        {
+            "end": "2013-12-31",
+            "val": 3012000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013Q4I"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 3012000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        },
+        {
+            "end": "2013-12-31",
+            "val": 3012000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "end": "2014-06-30",
+            "val": 11714000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08",
+            "frame": "CY2014Q2I"
+        },
+        {
+            "end": "2014-09-30",
+            "val": 17331000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07",
+            "frame": "CY2014Q3I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 17947000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 17947000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 17947000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 17947000,
+            "accn": "0001564590-15-003789",
+            "fy": 2015,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2015-05-11"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 17947000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26"
+        },
+        {
+            "end": "2015-03-31",
+            "val": 20693000,
+            "accn": "0001564590-15-003789",
+            "fy": 2015,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2015-05-11",
+            "frame": "CY2015Q1I"
+        },
+        {
+            "end": "2015-06-30",
+            "val": 20591000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07",
+            "frame": "CY2015Q2I"
+        },
+        {
+            "end": "2015-09-30",
+            "val": 25223000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05",
+            "frame": "CY2015Q3I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 22600000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 22628000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 22628000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 22628000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 22628000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "end": "2016-03-31",
+            "val": 23980000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 24525000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2016-09-30",
+            "val": 23711000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3I"
+        }
+    ]
+}

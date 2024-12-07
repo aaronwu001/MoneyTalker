@@ -1,0 +1,21 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "UnrecognizedTaxBenefitsPeriodIncreaseDecrease",
+    "unit": "USD",
+    "label": "Unrecognized Tax Benefits, Period Increase (Decrease)",
+    "description": "Amount of increase (decrease) in unrecognized tax benefits attributable to uncertain tax positions taken in tax returns.",
+    "data": [
+        {
+            "start": "2011-01-01",
+            "end": "2011-12-31",
+            "val": 11500000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011"
+        }
+    ]
+}

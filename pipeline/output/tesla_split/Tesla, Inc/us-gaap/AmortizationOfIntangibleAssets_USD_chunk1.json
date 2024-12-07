@@ -1,0 +1,105 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AmortizationOfIntangibleAssets",
+    "unit": "USD",
+    "label": "Amortization of Intangible Assets",
+    "description": "The aggregate expense charged against earnings to allocate the cost of intangible assets (nonphysical assets not used in production) in a systematic and rational manner to the periods expected to benefit from such assets. As a noncash expense, this element is added back to net income when calculating cash provided by or used in operations using the indirect method.",
+    "data": [
+        {
+            "start": "2017-01-01",
+            "end": "2017-12-31",
+            "val": 40000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13",
+            "frame": "CY2017"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 66000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2018-01-01",
+            "end": "2018-12-31",
+            "val": 66000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08",
+            "frame": "CY2018"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 44000000,
+            "accn": "0001564590-20-004475",
+            "fy": 2019,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2020-02-13"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 44000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2019-01-01",
+            "end": "2019-12-31",
+            "val": 44000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2019"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 51000000,
+            "accn": "0001564590-21-004599",
+            "fy": 2020,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2021-02-08"
+        },
+        {
+            "start": "2020-01-01",
+            "end": "2020-12-31",
+            "val": 51000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2020"
+        },
+        {
+            "start": "2021-01-01",
+            "end": "2021-12-31",
+            "val": 51000000,
+            "accn": "0000950170-22-000796",
+            "fy": 2021,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2022-02-07",
+            "frame": "CY2021"
+        }
+    ]
+}

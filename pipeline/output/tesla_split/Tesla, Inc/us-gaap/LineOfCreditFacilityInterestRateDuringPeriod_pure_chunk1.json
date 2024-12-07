@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "LineOfCreditFacilityInterestRateDuringPeriod",
+    "unit": "pure",
+    "label": "Line of Credit Facility, Interest Rate During Period",
+    "description": "The effective interest rate during the reporting period.",
+    "data": [
+        {
+            "start": "2012-05-01",
+            "end": "2012-05-31",
+            "val": 0.013,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10"
+        },
+        {
+            "start": "2012-08-01",
+            "end": "2012-08-02",
+            "val": 0.01,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        }
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeLossReclassificationAdjustmentForSaleOfSecuritiesIncludedInNetIncomeNetOfTax",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Reclassification Adjustment for Sale of Securities Included in Net Income, Net of Tax (Deprecated 2013-01-31)",
+    "description": "Net of tax amount of the income statement impact of the reclassification adjustment for unrealized gain (loss) realized upon the sale of available-for-sale securities.",
+    "data": [
+        {
+            "start": "2012-01-01",
+            "end": "2012-06-30",
+            "val": -6000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        },
+        {
+            "start": "2012-04-01",
+            "end": "2012-06-30",
+            "val": -6000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02",
+            "frame": "CY2012Q2"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-09-30",
+            "val": -6000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": 3000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012"
+        }
+    ]
+}

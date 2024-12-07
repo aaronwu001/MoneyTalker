@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "AssetBackedSecuritiesAtCarryingValue",
+    "unit": "USD",
+    "label": "Asset-Backed Securities, at Carrying Value",
+    "description": "Investments in notes or bonds that are collateralized by a specific group of underlying assets owned by the issuer of the notes or bonds which are short-term, highly liquid investments that are both readily convertible to known amounts of cash and so near their maturity that they present insignificant risk of changes in value because of changes in interest rates. Generally, only investments with original maturities of three months or less qualify under that definition. Original maturity means original maturity to the entity holding the investment. For example, both a three-month US Treasury bill and a three-year Treasury note purchased three months from maturity qualify as cash equivalents. However, a Treasury note purchased three-years ago does not become a cash equivalent when its remaining maturity is three months.",
+    "data": [
+        {
+            "end": "2015-06-30",
+            "val": 50000000,
+            "accn": "0001564590-15-006666",
+            "fy": 2015,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2015-08-07",
+            "frame": "CY2015Q2I"
+        }
+    ]
+}

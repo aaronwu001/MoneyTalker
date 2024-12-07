@@ -1,0 +1,43 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "IncomeTaxEffectsAllocatedDirectlyToEquityEmployeeStockOptions",
+    "unit": "USD",
+    "label": "Income Tax Effects Allocated Directly to Equity, Employee Stock Options",
+    "description": "The tax effects of employee stock option transactions that are recognized differently for financial reporting and tax purposes, occurring during the period and charged or credited directly to shareholders' equity.",
+    "data": [
+        {
+            "start": "2011-01-01",
+            "end": "2011-12-31",
+            "val": 21000000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": 32300000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 246000000,
+            "accn": "0001193125-14-069681",
+            "fy": 2013,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2014-02-26",
+            "frame": "CY2013"
+        }
+    ]
+}

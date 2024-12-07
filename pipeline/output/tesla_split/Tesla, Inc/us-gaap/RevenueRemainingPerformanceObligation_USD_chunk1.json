@@ -1,0 +1,80 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "RevenueRemainingPerformanceObligation",
+    "unit": "USD",
+    "label": "Revenue, Remaining Performance Obligation, Amount",
+    "description": "Amount of transaction price allocated to performance obligation that has not been recognized as revenue.",
+    "data": [
+        {
+            "end": "2023-03-31",
+            "val": 209000000,
+            "accn": "0000950170-23-013890",
+            "fy": 2023,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2023-04-24",
+            "frame": "CY2023Q1I"
+        },
+        {
+            "end": "2023-06-30",
+            "val": 814000000,
+            "accn": "0000950170-23-033872",
+            "fy": 2023,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2023-07-24",
+            "frame": "CY2023Q2I"
+        },
+        {
+            "end": "2023-09-30",
+            "val": 1910000000,
+            "accn": "0001628280-23-034847",
+            "fy": 2023,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2023-10-23",
+            "frame": "CY2023Q3I"
+        },
+        {
+            "end": "2023-12-31",
+            "val": 3430000000,
+            "accn": "0001628280-24-002390",
+            "fy": 2023,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2024-01-29",
+            "frame": "CY2023Q4I"
+        },
+        {
+            "end": "2024-03-31",
+            "val": 3860000000,
+            "accn": "0001628280-24-017503",
+            "fy": 2024,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2024-04-24",
+            "frame": "CY2024Q1I"
+        },
+        {
+            "end": "2024-06-30",
+            "val": 5710000000,
+            "accn": "0001628280-24-032662",
+            "fy": 2024,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2024-07-24",
+            "frame": "CY2024Q2I"
+        },
+        {
+            "end": "2024-09-30",
+            "val": 6610000000,
+            "accn": "0001628280-24-043486",
+            "fy": 2024,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2024-10-24",
+            "frame": "CY2024Q3I"
+        }
+    ]
+}

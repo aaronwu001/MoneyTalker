@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "SharebasedCompensationSharesAuthorizedUnderStockOptionPlansExercisePriceRangeExercisableOptionsWeightedAverageRemainingContractualTerm1",
+    "unit": "years",
+    "label": "Share-based Compensation, Shares Authorized under Stock Option Plans, Exercise Price Range, Exercisable Options, Weighted Average Remaining Contractual Term (Deprecated 2012-01-31)",
+    "description": "The weighted average remaining life of the exercisable stock options as of the balance sheet date for all option plans in the customized range of exercise prices.",
+    "data": [
+        {
+            "end": "2010-12-31",
+            "val": 5.19,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2010Q4I"
+        },
+        {
+            "end": "2011-12-31",
+            "val": 5.15,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2011Q4I"
+        }
+    ]
+}

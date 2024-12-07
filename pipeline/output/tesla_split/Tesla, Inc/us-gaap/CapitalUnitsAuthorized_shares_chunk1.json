@@ -1,0 +1,20 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "CapitalUnitsAuthorized",
+    "unit": "shares",
+    "label": "Capital Units, Authorized",
+    "description": "Number of authorized capital units or capital shares. This element is relevant to issuers of face-amount certificates and registered investment companies.",
+    "data": [
+        {
+            "end": "2009-12-31",
+            "val": 313006077,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2009Q4I"
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PledgedAssetsSeparatelyReportedOnStatementOfFinancialPositionAtFairValue",
+    "unit": "USD",
+    "label": "Pledged Assets Separately Reported, Other, on Statement of Financial Position, at Fair Value",
+    "description": "The sum of the fair values, as of the date of each statement of financial position presented, of assets which are owned but transferred to serve as collateral for the payment of debt obligations, primarily secured borrowings, repurchase agreements or other current or potential obligations, and that are reclassified and separately reported in the statement of financial position because the transferee has the right by contract or custom to sell or re-pledge them.",
+    "data": [
+        {
+            "end": "2014-12-31",
+            "val": 29300000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2014-12-31",
+            "val": 29300000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05"
+        },
+        {
+            "end": "2015-09-30",
+            "val": 1465000000,
+            "accn": "0001564590-15-009741",
+            "fy": 2015,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2015-11-05",
+            "frame": "CY2015Q3I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 1400000000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2015Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 1430000000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 1430000000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 1430000000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "end": "2016-03-31",
+            "val": 1650000000,
+            "accn": "0001564590-16-018886",
+            "fy": 2016,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2016-05-10",
+            "frame": "CY2016Q1I"
+        },
+        {
+            "end": "2016-06-30",
+            "val": 1820000000,
+            "accn": "0001564590-16-023024",
+            "fy": 2016,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2016-08-05",
+            "frame": "CY2016Q2I"
+        },
+        {
+            "end": "2016-09-30",
+            "val": 1900000000,
+            "accn": "0001564590-16-026820",
+            "fy": 2016,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2016-11-02",
+            "frame": "CY2016Q3I"
+        }
+    ]
+}

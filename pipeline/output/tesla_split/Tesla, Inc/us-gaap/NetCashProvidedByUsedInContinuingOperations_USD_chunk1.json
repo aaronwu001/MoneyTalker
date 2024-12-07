@@ -1,0 +1,73 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "NetCashProvidedByUsedInContinuingOperations",
+    "unit": "USD",
+    "label": "Net Cash Provided by (Used in) Continuing Operations",
+    "description": "The increase (decrease) in cash associated with the entity's continuing operating, investing, and financing activities. While for technical reasons this element has no balance attribute, the default assumption is a debit balance consistent with its label.",
+    "data": [
+        {
+            "start": "2003-07-01",
+            "end": "2011-12-31",
+            "val": 445000000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-03-31",
+            "val": 495000000,
+            "accn": "0001193125-12-225825",
+            "fy": 2012,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2012-05-10",
+            "frame": "CY2012Q1"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-06-30",
+            "val": 556100000,
+            "accn": "0001193125-12-332138",
+            "fy": 2012,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2012-08-02"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-09-30",
+            "val": 651100000,
+            "accn": "0001193125-12-457610",
+            "fy": 2012,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2012-11-07"
+        },
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": 709200000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2012"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-03-31",
+            "val": 660600000,
+            "accn": "0001193125-13-212354",
+            "fy": 2013,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2013-05-10",
+            "frame": "CY2013Q1"
+        }
+    ]
+}

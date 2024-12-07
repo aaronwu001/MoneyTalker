@@ -1,0 +1,72 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DebtConversionOriginalDebtAmount1",
+    "unit": "USD",
+    "label": "Debt Conversion, Original Debt, Amount",
+    "description": "\"The amount of the original debt being converted in a noncash (or part noncash) transaction. \"\"Part noncash\"\" refers to that portion of the transaction not resulting in cash receipts or cash payments in the period.\"",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-06-30",
+            "val": 82800000,
+            "accn": "0001193125-13-327916",
+            "fy": 2013,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2013-08-09"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-09-30",
+            "val": 82800000,
+            "accn": "0001193125-13-435480",
+            "fy": 2013,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2013-11-08"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 82800000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-06-30",
+            "val": 82800000,
+            "accn": "0001193125-14-303175",
+            "fy": 2014,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2014-08-08"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-09-30",
+            "val": 82800000,
+            "accn": "0001193125-14-403635",
+            "fy": 2014,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2014-11-07"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": 82800000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2014"
+        }
+    ]
+}

@@ -1,0 +1,116 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherComprehensiveIncomeUnrealizedGainLossOnDerivativesArisingDuringPeriodNetOfTax",
+    "unit": "USD",
+    "label": "Other Comprehensive Income (Loss), Unrealized Gain (Loss) on Derivatives Arising During Period, Net of Tax",
+    "description": "Amount after tax of increase (decrease) in accumulated gain (loss) from derivative instruments designated and qualifying as the effective portion of cash flow hedges and an entity's share of an equity investee's increase (decrease) in deferred hedging gain (loss).",
+    "data": [
+        {
+            "start": "2014-01-01",
+            "end": "2014-12-31",
+            "val": -22000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 7443000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23",
+            "frame": "CY2015"
+        },
+        {
+            "start": "2015-01-01",
+            "end": "2015-12-31",
+            "val": 7465000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-03-31",
+            "val": 20805000,
+            "accn": "0001564590-17-009968",
+            "fy": 2017,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2017-05-10",
+            "frame": "CY2016Q1"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-06-30",
+            "val": 43733000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04"
+        },
+        {
+            "start": "2016-04-01",
+            "end": "2016-06-30",
+            "val": 22928000,
+            "accn": "0001564590-17-015705",
+            "fy": 2017,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2017-08-04",
+            "frame": "CY2016Q2"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-09-30",
+            "val": 48359000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03"
+        },
+        {
+            "start": "2016-07-01",
+            "end": "2016-09-30",
+            "val": 3349000,
+            "accn": "0001564590-17-021343",
+            "fy": 2017,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2017-11-03",
+            "frame": "CY2016Q3"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 43220000,
+            "accn": "0001564590-19-003165",
+            "fy": 2018,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2019-02-19",
+            "frame": "CY2016"
+        },
+        {
+            "start": "2016-01-01",
+            "end": "2016-12-31",
+            "val": 43220000,
+            "accn": "0001564590-18-002956",
+            "fy": 2017,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2018-02-23"
+        }
+    ]
+}

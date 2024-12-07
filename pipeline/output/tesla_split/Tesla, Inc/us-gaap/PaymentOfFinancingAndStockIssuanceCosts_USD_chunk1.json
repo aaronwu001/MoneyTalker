@@ -1,0 +1,82 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "PaymentOfFinancingAndStockIssuanceCosts",
+    "unit": "USD",
+    "label": "Payment of Financing and Stock Issuance Costs",
+    "description": "The total of the cash outflow during the period which has been paid to third parties in connection with debt origination, which will be amortized over the remaining maturity period of the associated long-term debt and the cost incurred directly for the issuance of equity securities.",
+    "data": [
+        {
+            "start": "2009-01-01",
+            "end": "2009-12-31",
+            "val": 2046000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28",
+            "frame": "CY2009"
+        },
+        {
+            "start": "2009-01-01",
+            "end": "2009-12-31",
+            "val": 2046000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-06-30",
+            "val": 3523000,
+            "accn": "0001193125-11-221497",
+            "fy": 2011,
+            "fp": "Q2",
+            "form": "10-Q",
+            "filed": "2011-08-12"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-09-30",
+            "val": 3691000,
+            "accn": "0001193125-11-308489",
+            "fy": 2011,
+            "fp": "Q3",
+            "form": "10-Q",
+            "filed": "2011-11-14"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 3734000,
+            "accn": "0001193125-13-096241",
+            "fy": 2012,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2013-03-07",
+            "frame": "CY2010"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 3734000,
+            "accn": "0001193125-12-137560",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K/A",
+            "filed": "2012-03-28"
+        },
+        {
+            "start": "2010-01-01",
+            "end": "2010-12-31",
+            "val": 3734000,
+            "accn": "0001193125-12-081990",
+            "fy": 2011,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2012-02-27"
+        }
+    ]
+}

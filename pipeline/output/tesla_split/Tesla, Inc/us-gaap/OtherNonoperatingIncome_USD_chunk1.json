@@ -1,0 +1,32 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "OtherNonoperatingIncome",
+    "unit": "USD",
+    "label": "Other Nonoperating Income",
+    "description": "Amount of income related to nonoperating activities, classified as other.",
+    "data": [
+        {
+            "start": "2013-01-01",
+            "end": "2013-03-31",
+            "val": 17091000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2013Q1"
+        },
+        {
+            "start": "2014-01-01",
+            "end": "2014-03-31",
+            "val": 6718000,
+            "accn": "0001193125-14-192606",
+            "fy": 2014,
+            "fp": "Q1",
+            "form": "10-Q",
+            "filed": "2014-05-09",
+            "frame": "CY2014Q1"
+        }
+    ]
+}

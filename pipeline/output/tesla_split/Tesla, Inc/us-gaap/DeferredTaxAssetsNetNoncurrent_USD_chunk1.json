@@ -1,0 +1,30 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "DeferredTaxAssetsNetNoncurrent",
+    "unit": "USD",
+    "label": "Deferred Tax Assets, Net of Valuation Allowance, Noncurrent",
+    "description": "Amount after allocation of valuation allowances of deferred tax asset attributable to deductible temporary differences and carryforwards classified as noncurrent.",
+    "data": [
+        {
+            "end": "2014-12-31",
+            "val": 18600000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2014Q4I"
+        },
+        {
+            "end": "2015-12-31",
+            "val": 18600000,
+            "accn": "0001564590-16-013195",
+            "fy": 2015,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2016-02-24",
+            "frame": "CY2015Q4I"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "entity": "Tesla, Inc.",
+    "category": "us-gaap",
+    "feature": "ProceedsFromIssuanceInitialPublicOffering",
+    "unit": "USD",
+    "label": "Proceeds from Issuance Initial Public Offering",
+    "description": "The cash inflow associated with the amount received from entity's first offering of stock to the public.",
+    "data": [
+        {
+            "start": "2012-01-01",
+            "end": "2012-12-31",
+            "val": 221496000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2012"
+        },
+        {
+            "start": "2013-01-01",
+            "end": "2013-12-31",
+            "val": 360000000,
+            "accn": "0001564590-15-001031",
+            "fy": 2014,
+            "fp": "FY",
+            "form": "10-K",
+            "filed": "2015-02-26",
+            "frame": "CY2013"
+        }
+    ]
+}
